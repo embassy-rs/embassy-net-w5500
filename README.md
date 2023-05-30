@@ -1,3 +1,5 @@
+# ARCHIVED -- moved into the main Embassy repo at https://github.com/embassy-rs/embassy 
+
 # WIZnet W5500 `embassy-net` integration
 
 [`embassy-net`](https://crates.io/crates/embassy-net) integration for the WIZnet W5500 SPI ethernet chip, operating in MACRAW mode.
